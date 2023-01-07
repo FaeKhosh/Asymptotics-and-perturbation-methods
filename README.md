@@ -1,4 +1,4 @@
-# Asymptotics and perturbation methods
+# Introduction: Asymptotics and perturbation methods
 I am going to publish solutions to the exercises in the booked called Fluid Dynamics II by Prof Ruban here, every Sunday. The notes are handwritten however, if want me to type the solutions in Latex (PDF) please reach out "fk1114@ic.ac.uk". 
 ## The purpose of these exercises is:
 to learn the elementary techniques needed to solve dynamical systems. 
