@@ -1,5 +1,5 @@
 # Introduction: Asymptotics and perturbation methods
-I am going to publish solutions to the exercises in the book Fluid Dynamics II by Prof Ruban here, every Sunday. The notes are handwritten however, if want me to type the solutions in Latex (PDF) please reach out "fk1114@ic.ac.uk". 
+I am going to publish solutions to the exercises in the book Fluid Dynamics II by Prof Ruban here, every Sunday. If you have any questions regarding these notes, please reach out "fk1114@ic.ac.uk". 
 ## The purpose of these exercises is:
 to learn the elementary techniques needed to solve dynamical systems. 
 These systems are typically modelled by differential equations. Some of the problems require numerical solution but most of the problems can be solved analytically using asymptotic methods. The programming languages used are Python and Mathematics. 
